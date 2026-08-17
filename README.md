@@ -14,6 +14,7 @@ one who only knows how to run scanning tools against a lab VM. This is a
 companion piece to my [Purdue Model Mapping project](https://github.com/carmelin-neto/ot-purdue-model-mapping) 
 — that project defines the network boundaries; this one explains why crossing 
 them carelessly is dangerous.
+*Related project: [ICS Modbus Attack Testing](https://github.com/carmelin-neto/ics-modbus-attack-testing) — hands-on testing that puts these scanning-risk concepts into practice.*
 
 ## What I Did
 Researched documented cases of active scanning tools causing failures in live 
