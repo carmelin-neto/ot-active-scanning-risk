@@ -15,6 +15,7 @@ companion piece to my [Purdue Model Mapping project](https://github.com/carmelin
 — that project defines the network boundaries; this one explains why crossing 
 them carelessly is dangerous.
 *Related project: [ICS Modbus Attack Testing](https://github.com/carmelin-neto/ics-modbus-attack-testing) — hands-on testing that puts these scanning-risk concepts into practice.*
+The scanning judgment argued here is put into practice in [ot-vulnerability-assessment](https://github.com/carmelin-neto/ot-vulnerability-assessment) — a real scan against this same lab, using exactly this reasoning.
 
 ## What I Did
 Researched documented cases of active scanning tools causing failures in live 
